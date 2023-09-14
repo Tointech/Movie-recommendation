@@ -1,4 +1,4 @@
-## Moive Recommendation System
+## Movie Recommendation System
 
 <p align="center">
   <img src="demo.gif" />
