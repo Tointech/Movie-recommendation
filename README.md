@@ -1,6 +1,8 @@
 ## Moive Recommendation System
 
-![demo](./demo.gif)
+<p align="center">
+  <img src="demo.gif" />
+</p>
 
 Recommendation website made with Streamlit, based on [TMDB 5000 Movie Dataset
 ](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
